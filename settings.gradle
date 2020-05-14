@@ -1,0 +1,2 @@
+rootProject.name='do-eat-application-v.1'
+include ':app'
